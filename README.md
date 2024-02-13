@@ -3,6 +3,7 @@
 `DeepLearning` 
 
 </div>
+
 # :bank:Customer Churn Analysis in Banking Industry - Deep Learning  
 The project focuses on developing a churn model using a **Feedforward Neural Network (FFNN)** to predict customer turnover in a banking context. Dataset incorporates customer details such as credit score, gender, and banking activity. By optimizing the network architecture through **grid search** and evaluating with **cross-validation**, the model achieves improved prediction accuracy. The prroject aims to offer a practical application in enhancing **marketing efforts** and reducing **turnover-related losses**.  
 ## Dataset 
